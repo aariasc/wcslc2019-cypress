@@ -36,6 +36,6 @@ node_modules/.bin/cypress run
 node_modules/.bin/cypress run --record --key <cypress-dashboard-key>
 ```
 
-The `cypress-dashboard-key` is available in the Settings section of the dashboard (ping Andres for details)
+The `cypress-dashboard-key` is available in the Settings section of the dashboard.
 
 [Link to Cypress Dashboard](https://dashboard.cypress.io/)
